@@ -1,9 +1,10 @@
-# 💫 About Me:
-I'm a Full Stack Developer passionate about crafting sleek, high-performance web applications using Next.js, React, and TypeScript. I focus on building intuitive UIs, optimizing performance, and exploring serverless architectures for scalable solutions.
+# 🚀 About Me
 
-Currently diving deeper into GraphQL and modern frontend optimization techniques, I’m always eager to collaborate on impactful projects that push creativity and innovation.
+Full Stack Developer passionate about building digital experiences that inspire and perform. With 4+ years of experience, I craft scalable, user-focused applications using Next.js, React, TypeScript, and modern backend technologies.
 
-Beyond coding, I’m a music producer — blending rhythm and logic to create both beats and beautiful user experiences. Let’s build something extraordinary together. 🎧✨
+I specialize in responsive UI design, API architecture, and AI-powered integrations, delivering products that are fast, intuitive, and impactful. Deployed seamlessly with Vercel, my work emphasizes performance, accessibility, and user satisfaction.
+
+Driven by creativity and precision, I transform complex ideas into engaging web solutions that drive growth and elevate brands.
 
 
 ## 🌐 Socials:
