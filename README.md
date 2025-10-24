@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently immersed in the development of innovative web applications using React.js and Next.js. My goal is to enhance user experiences and streamline processes through intuitive interfaces and efficient coding practices.<br><br> I’m looking to collaborate on exciting projects that challenge and expand my skills in front-end development. Whether it's building interactive websites, crafting intuitive user interfaces, or exploring emerging technologies, I'm eager to collaborate with like-minded individuals.<br><br>🤝 I’m looking for help with mastering advanced techniques in front-end development, particularly in areas such as performance optimization, responsive design, and accessibility best practices.<br><br>🌱 I’m currently learning about serverless architecture and exploring the possibilities it offers for building scalable and cost-effective applications. Additionally, I'm delving deeper into GraphQL to enhance my understanding of data querying and manipulation.<br><br>💬 Ask me about my transition from music production to web development, my favorite JavaScript frameworks, or my approach to solving complex technical challenges.<br><br>⚡ Fun fact: During my free time, you can often find me immersed in the creative realm of music production, crafting infectious beats and melodies using FL Studio. Whether I'm experimenting with new soundscapes or fine-tuning rhythms, music serves as my ultimate outlet for self-expression and artistic exploration.
+I'm a Full Stack Developer passionate about crafting sleek, high-performance web applications using Next.js, React, and TypeScript. I focus on building intuitive UIs, optimizing performance, and exploring serverless architectures for scalable solutions.
+
+Currently diving deeper into GraphQL and modern frontend optimization techniques, I’m always eager to collaborate on impactful projects that push creativity and innovation.
+
+Beyond coding, I’m a music producer — blending rhythm and logic to create both beats and beautiful user experiences. Let’s build something extraordinary together. 🎧✨
 
 
 ## 🌐 Socials:
